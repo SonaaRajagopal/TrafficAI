@@ -50,7 +50,7 @@ An AI-powered traffic management system designed to optimize vehicle flow, reduc
 └── README.md                 # Project overview
 
 ```
-## 🚀 Getting Started
+# 🚀 Getting Started
 
 ## ✅ Prerequisites
 Ensure the following tools are installed:
@@ -59,17 +59,17 @@ Ensure the following tools are installed:
 
 📦 npm or yarn
 
-## ⚙️ Installation Steps
+# ⚙️ Installation Steps
 
-# 1️⃣ Clone the repository
+## 1️⃣ Clone the repository
 git clone https://github.com/SonaaRajagopal/TrafficAI.git
 
-# 2️⃣ Navigate to the project directory
+## 2️⃣ Navigate to the project directory
 cd TrafficAI
 
-# 3️⃣ Install dependencies
+## 3️⃣ Install dependencies
 npm install
 
-# 4️⃣ Start development server
+## 4️⃣ Start development server
 npm run dev
 
