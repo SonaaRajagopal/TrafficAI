@@ -20,15 +20,17 @@ An AI-powered traffic management system designed to optimize vehicle flow, reduc
 
 ## 🛠️ Tech Stack
 
-| Technology     | Description |
-| ⚡ Vite         | Frontend build tool for fast development |
-| 💨 Tailwind CSS| Utility-first CSS framework |
-| 🔷 TypeScript  | Typed superset of JavaScript |
-| 📦 npm         | Dependency/package manager |
-| 🧩 PostCSS     | CSS transformer for Tailwind |
-| 🧹 ESLint      | JavaScript/TypeScript linter |
-| 🏗️ Component Architecture | Built with reusable React components |
-| 🧪 Vite + TS Config | Strong configuration setup for dev environment |
+| 🧩 Technology                | 💡 Description                                           |
+|-----------------------------|----------------------------------------------------------|
+| ⚡ **Vite**                  | Frontend build tool for fast development                 |
+| 💨 **Tailwind CSS**         | Utility-first CSS framework                             |
+| 🔷 **TypeScript**           | Typed superset of JavaScript                            |
+| 📦 **npm**                  | Dependency/package manager                              |
+| 🧩 **PostCSS**              | CSS transformer for Tailwind                            |
+| 🧹 **ESLint**               | JavaScript/TypeScript linter                            |
+| 🏗️ **Component Architecture** | Built with reusable React components                   |
+| 🧪 **Vite + TS Config**     | Strong configuration setup for development environment  |
+
 
 
 
