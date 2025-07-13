@@ -21,7 +21,6 @@ An AI-powered traffic management system designed to optimize vehicle flow, reduc
 ## 🛠️ Tech Stack
 
 | Technology     | Description |
-|-||-|
 | ⚡ Vite         | Frontend build tool for fast development |
 | 💨 Tailwind CSS| Utility-first CSS framework |
 | 🔷 TypeScript  | Typed superset of JavaScript |
