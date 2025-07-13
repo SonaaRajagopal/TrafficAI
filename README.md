@@ -2,9 +2,7 @@
 
 An AI-powered traffic management system designed to optimize vehicle flow, reduce congestion, and improve urban transportation using modern web technologies.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/SonaaRajagopal/TrafficAI?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/SonaaRajagopal/TrafficAI?style=flat-square)
-![GitHub](https://img.shields.io/github/license/SonaaRajagopal/TrafficAI?style=flat-square)
+
 
 ---
 
@@ -50,3 +48,28 @@ An AI-powered traffic management system designed to optimize vehicle flow, reduc
 ├── tsconfig*.json            # TypeScript configs
 ├── eslint.config.js          # Linting rules
 └── README.md                 # Project overview
+
+```
+## 🚀 Getting Started
+
+## ✅ Prerequisites
+Ensure the following tools are installed:
+
+🟢 Node.js (v16+)
+
+📦 npm or yarn
+
+## ⚙️ Installation Steps
+
+# 1️⃣ Clone the repository
+git clone https://github.com/SonaaRajagopal/TrafficAI.git
+
+# 2️⃣ Navigate to the project directory
+cd TrafficAI
+
+# 3️⃣ Install dependencies
+npm install
+
+# 4️⃣ Start development server
+npm run dev
+
